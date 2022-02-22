@@ -1,11 +1,13 @@
 accelerator:
-  displayName: CVS Node Js Azure App-Service 
-  description: A ready to publish Node.js app using Express.
+  displayName: CVS Angular SPA Azure App-Service 
+  description: A ready to publish Angular Node.js app using Express.
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logoImageFile.png
   tags:
   - nodejs
   - express
   - javascript
+  - angular
+  - typescript
 
   # options for the UI
   options:
