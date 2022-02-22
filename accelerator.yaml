@@ -1,5 +1,5 @@
 accelerator:
-  displayName: CVS Node Js Azure Web App-Service 
+  displayName: CVS Node Js Azure App-Service 
   description: A ready to publish Node.js app using Express.
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logoImageFile.png
   tags:
