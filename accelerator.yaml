@@ -1,7 +1,7 @@
 accelerator:
   displayName: CVS Node Js Azure Web App-Service 
   description: A ready to publish Node.js app using Express.
-  iconUrl: https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png
+  iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logoImageFile.png
   tags:
   - node
   - express
