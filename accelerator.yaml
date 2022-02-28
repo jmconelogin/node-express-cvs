@@ -9,6 +9,8 @@ accelerator:
   - angular
   - typescript
   - azure
+  - retail
+  - HCB
 
   # options for the UI
   options:
