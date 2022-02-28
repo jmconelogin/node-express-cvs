@@ -1,5 +1,5 @@
 accelerator:
-  displayName: CVS Angular SPA Azure App-Service 
+  displayName: CVS Angular SPA App-Service 
   description: A ready to publish Angular Node.js app using Express.
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   tags:
@@ -8,6 +8,7 @@ accelerator:
   - javascript
   - angular
   - typescript
+  - azure
 
   # options for the UI
   options:
