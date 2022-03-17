@@ -1,5 +1,5 @@
 accelerator:
-  displayName: CVS Node-Angular App-Service 
+  displayName: CVS Node-Angular
   description: A ready to publish Angular Node.js app using Express.
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   tags:
